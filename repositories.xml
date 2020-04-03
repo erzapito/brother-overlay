@@ -2,14 +2,14 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name><![CDATA[brother-overlay]]></name>
-    <description lang="en"><![CDATA[Brother Overlay]]></description>
-    <homepage>http://github.com/stefan-langenmaier/brother-overlay</homepage>
+    <name><![CDATA[brother-overlay-zapo]]></name>
+    <description lang="en"><![CDATA[Brother Overlay Fork By Zapo]]></description>
+    <homepage>https://github.com/erzapito/brother-overlay</homepage>
     <owner type="person">
-      <email>stefan.langenmaier@gmail.com</email>
-      <name><![CDATA[Stefan Langenmaier]]></name>
+      <email>erzapito@gmail.com</email>
+      <name><![CDATA[Alexandre Paz]]></name>
     </owner>
-    <source type="git">git://github.com/stefan-langenmaier/brother-overlay.git</source>
-    <feed>http://github.com/stefan-langenmaier/brother-overlay/commits/master.atom</feed>
+    <source type="git">git://github.com/erzapito/brother-overlay.git</source>
+    <feed>http://github.com/erzapito/brother-overlay/commits/master.atom</feed>
   </repo>
 </repositories>
